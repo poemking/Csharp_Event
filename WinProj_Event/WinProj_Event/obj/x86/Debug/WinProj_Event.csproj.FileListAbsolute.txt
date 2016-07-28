@@ -1,0 +1,7 @@
+C:\vs2010\WinProj_Event\WinProj_Event\bin\Debug\WinProj_Event.exe
+C:\vs2010\WinProj_Event\WinProj_Event\bin\Debug\WinProj_Event.pdb
+C:\vs2010\WinProj_Event\WinProj_Event\obj\x86\Debug\WinProj_Event.Form1.resources
+C:\vs2010\WinProj_Event\WinProj_Event\obj\x86\Debug\WinProj_Event.Properties.Resources.resources
+C:\vs2010\WinProj_Event\WinProj_Event\obj\x86\Debug\WinProj_Event.csproj.GenerateResource.Cache
+C:\vs2010\WinProj_Event\WinProj_Event\obj\x86\Debug\WinProj_Event.exe
+C:\vs2010\WinProj_Event\WinProj_Event\obj\x86\Debug\WinProj_Event.pdb
